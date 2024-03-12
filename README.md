@@ -1,2 +1,3 @@
 # python122
-folder for pyhton
+folder for python
+Name:shoubhik ghosh
